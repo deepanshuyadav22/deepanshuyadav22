@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuyadav22&layout=compact)](https://github.com/deepanshuyadav22/)
 
-[![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshuyadav22)](https://github.com/deepanshuyadav22/)
+[![Deepanshu Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshuyadav22)](https://github.com/deepanshuyadav22/)
