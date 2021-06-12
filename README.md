@@ -4,7 +4,7 @@
 
 <br>
 
-🔭 I’m currently working on **building websites using HTML, CSS, JS and PHP.**<br>
+🔭 I’m currently working on **building websites using React.**<br>
 🌱 I’m currently learning **React and NodeJS.**<br>
 👯 I’m looking to collaborate on **frontend website projects.**<br> <!-- 🤔 I’m looking for help with ****<br> -->
 💬 Ask me about **UI design.**<br>
