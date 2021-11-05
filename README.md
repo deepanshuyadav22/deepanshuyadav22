@@ -11,6 +11,8 @@
 📫 How to reach me: [Email](mailto:ydeep2202@gmail.com).<br> <!-- 😄 Pronouns: ...<br> -->
 ⚡ Fun fact: **When I'm not programming, you can find me reading 📖 or watching YouTube!**<br><br>
 
+![](https://komarev.com/ghpvc/?username=deepanshuyadav22)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuyadav22&layout=compact)](https://github.com/deepanshuyadav22/)
 
 [![Deepanshu Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshuyadav22)](https://github.com/deepanshuyadav22/)
