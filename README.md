@@ -9,7 +9,7 @@
 👯 I’m looking to collaborate on **frontend website projects.**<br> <!-- 🤔 I’m looking for help with ****<br> -->
 💬 Ask me about **UI design.**<br>
 📫 How to reach me: [Email](mailto:ydeep2202@gmail.com).<br> <!-- 😄 Pronouns: ...<br> -->
-⚡ Fun fact: **When I'm not programming, you can find me reading 📖 or watching YouTube!**<br><br>
+⚡ Fun fact: **When I'm not programming, you can find me reading 📖 or watching YouTube!**<br>
 
 ![](https://komarev.com/ghpvc/?username=deepanshuyadav22)
 
