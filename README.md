@@ -4,8 +4,8 @@
 
 <br>
 
-🔭 I’m currently working on **building frontend of websites using ReactJS.**<br>
-🌱 I’m currently learning **React and NodeJS.**<br>
+🔭 I’m currently working on **building websites using MERN stack.**<br>
+🌱 I’m currently learning **ExpressJS and MongoDB.**<br>
 👯 I’m looking to collaborate on **frontend website projects.**<br> <!-- 🤔 I’m looking for help with ****<br> -->
 💬 Ask me about **UI design.**<br>
 📫 How to reach me: [Email](mailto:ydeep2202@gmail.com).<br> <!-- 😄 Pronouns: ...<br> -->
