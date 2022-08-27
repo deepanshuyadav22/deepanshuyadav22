@@ -38,17 +38,13 @@
 </p>
 <br>
 
-## ⚡ GitHub Activity Graph:
+<!-- ## ⚡ GitHub Activity Graph:
 <br>
 
 <a href="https://github.com/deepanshuyadav22">
     <img src="https://activity-graph.herokuapp.com/graph?username=deepanshuyadav22&custom_title=Deepanshu%20Yadav's%20Contribution%20Graph&theme=react-dark" alt="Deepanshu's Activity Graph" >
 </a>
-<br><br>
-
-## 🐍 See my contributions being eaten by a snake:
-![Snake Gif](https://github.com/deepanshuyadav22/deepanshuyadav22/blob/output/github-contribution-grid-snake.gif)
-<br>
+<br><br> -->
 
 ## 🛠️ My Skills:
 ### 👉 Programming Languages:
@@ -100,7 +96,7 @@
     &emsp;
 
 <a href="https://mui.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MaterialUI%20-%23E34F26.svg?logo=mui&logoColor=white&color=007fff" alt="Material UI" >
+    <img src="https://img.shields.io/badge/MaterialUI%20-%23E34F26.svg?logo=mui&logoColor=white&color=007fff" alt="MUI" >
 </a>
     &emsp;
 
@@ -166,22 +162,18 @@
 ## 📫 Contact Me: 
 <p align="center">
 <a href="https://deepanshuyadav.netlify.app/">
-    <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website" >
+    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" >
 </a>
 
-<a href="https://github.com/deepanshuyadav22">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" >
-</a>
-
-<a href="https://www.linkedin.com/in/deepanshuy22">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" >
+<a href="https://www.linkedin.com/in/deepanshuyadav22">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" >
 </a>
 
 <a href="https://www.instagram.com/deepanshuy22/">
-    <img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" >
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" >
 </a>
 
 <a href="https://twitter.com/deepanshuy22">
-    <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter" >
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" >
 </a>
 </p>
