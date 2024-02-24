@@ -10,7 +10,7 @@
 <hr>
 
 <h4 align="center">
-    I am a coding enthusiast and doing my graduation in computer science. Currently, I define myself as a diligent student and learner of web development. I adhere to the motto of <em>"Never Stop Trying to Learn and Grow"</em>. Every day I work on developing and molding myself into the final product. My goal is to become an eminent web developer. I am little bit interested in AI and ML also.
+    I am a coding enthusiast and completed my graduation in computer engineering. Currently, I'm working as a software engineer. I adhere to the motto of <em>"Never Stop Trying to Learn and Grow"</em>. Every day I work on developing and molding myself into the final product. My goal is to become an eminent web developer.
 </h4>
 <br>
 
@@ -105,6 +105,11 @@
 </a>
     &emsp;
 
+<a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular%20-%23E34F26.svg?logo=angular&logoColor=white&color=0f0f11" alt="Angular" >
+</a>
+    &emsp;
+
 <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jQuery%20-%23E34F26.svg?logo=jquery&logoColor=white&color=3872a0" alt="jQuery" >
 </a>
@@ -114,13 +119,18 @@
 <p align="left">
     &emsp;
 
+<a href="https://www.mongodb.com/">
+    <img src ="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?logo=mongodb&logoColor=white&color=0c9648" alt="MongoDB" >
+</a>
+    &emsp;
+
 <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white&color=0b6378" alt="MySQL" >
 </a>
     &emsp;
 
-<a href="https://www.mongodb.com/">
-    <img src ="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?logo=mongodb&logoColor=white&color=0c9648" alt="MongoDB" >
+<a href="https://www.microsoft.com/en-in/sql-server/">
+    <img src="https://img.shields.io/badge/MSSQL-%2300f.svg?style=flat&logo=microsoftsqlserver&logoColor=white&color=cc2927" alt="MSSQL" >
 </a>
     &emsp;
 
@@ -141,6 +151,16 @@
 
 <a href="https://www.heroku.com/" target="_blank">
     <img src="https://img.shields.io/badge/Heroku%20-%23E34F26.svg?logo=heroku&logoColor=white&color=280f5e" alt="Heroku" >
+</a>
+    &emsp;
+
+<a href="https://www.vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel%20-%23E34F26.svg?logo=vercel&logoColor=white&color=000" alt="Vercel" >
+</a>
+    &emsp;
+
+<a href="https://www.cyclic.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Cyclic%20-%23E34F26.svg?logo=cyclic&logoColor=white&color=007bff" alt="Cyclic" >
 </a>
 </p>
   
