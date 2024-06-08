@@ -181,9 +181,9 @@
 
 ## 📫 Contact Me: 
 <p align="center">
-<a href="https://deepanshuyadav.netlify.app/">
+<!-- <a href="https://deepanshuyadav.netlify.app/">
     <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" >
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/deepanshuyadav22">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" >
