@@ -4,13 +4,13 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Developer;Developing+Websites+using+MERN+Stack;Learning+Angular+and+.NET;&center=true&width=500&height=50" >
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Developer;Working+on+Angular+and+.NET+based+website;Learning+Next.js;Developing+websites+using+MERN+stack;&center=true&width=500&height=50" >
 </a>
 </p>
 <hr>
 
 <h4 align="center">
-    I am a coding enthusiast and completed my graduation in computer engineering. Currently, I'm working as a software engineer. I adhere to the motto of <em>"Never Stop Trying to Learn and Grow"</em>. Every day I work on developing and molding myself into the final product. My goal is to become an eminent web developer.
+    I am a coding enthusiast and completed my graduation in computer engineering. Currently, I'm working as a senior software engineer.
 </h4>
 <br>
 
@@ -19,32 +19,10 @@
 </p>
 <br>
 
-## 🔥 Streak Stats:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshuyadav22&theme=algolia" alt="deepanshuyadav22" >
-</p>
-<br>
-
-## 💻 GitHub Profile Stats:
-<br>
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=deepanshuyadav22&show_icons=true&count_private=true&theme=algolia" height="192px" alt="Deepanshu's Github Stats" >
-    </a>
-    <br>
-    &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshuyadav22&show_icons=true&locale=en&layout=compact&theme=algolia" alt="deepanshuyadav22" height="192px" >
 </p>
 <br>
-
-<!-- ## ⚡ GitHub Activity Graph:
-<br>
-
-<a href="https://github.com/deepanshuyadav22">
-    <img src="https://activity-graph.herokuapp.com/graph?username=deepanshuyadav22&custom_title=Deepanshu%20Yadav's%20Contribution%20Graph&theme=react-dark" alt="Deepanshu's Activity Graph" >
-</a>
-<br><br> -->
 
 ## 🛠️ My Skills:
 ### 👉 Programming Languages:
@@ -61,6 +39,11 @@
 </a>
     &emsp;
 
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/CSharp%20-%2300599CSharp.svg?logo=c%2B%2B&logoColor=white&color=blue" alt="CSharp" >
+</a>
+    &emsp;
+
 <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&color=3772a2" alt="Python" >
 </a>
@@ -68,6 +51,11 @@
 
 <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript%20-%23E34F26.svg?logo=javascript&logoColor=white&color=yellow" alt="JavaScript" >
+</a>
+    &emsp;
+
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript%20-%23E34F26.svg?logo=typescript&logoColor=white&color=blue" alt="TypeScript" >
 </a>
     &emsp;
 
@@ -181,10 +169,6 @@
 
 ## 📫 Contact Me: 
 <p align="center">
-<!-- <a href="https://deepanshuyadav.netlify.app/">
-    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" >
-</a> -->
-
 <a href="https://www.linkedin.com/in/deepanshuyadav22">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" >
 </a>
